@@ -1,4 +1,4 @@
-<h1 align="center">Olá, tudo bem? 👋</h1> <p align="center"> Desenvolvedor(a) Front-end em formação | Apaixonado(a) por criar interfaces funcionais e bem pensadas </p> <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
+<h1 align="center">Olá, tudo bem?👋 Prazer, Luiz Felipe!</h1> <p align="center"> Desenvolvedor(a) Front-end em formação | Apaixonado(a) por criar interfaces funcionais e bem pensadas </p> <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
 🚀 Sobre mim
 💻 Trabalho com HTML, CSS e JavaScript
 🔎 Gosto de resolver problemas reais criando ferramentas simples e úteis
