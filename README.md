@@ -19,5 +19,6 @@ Principais funcionalidades:
 💾 Armazenamento e processamento das respostas coletadas
 
 #HTML #CSS #JavaScript #Formulário #Dashboard
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Izluthecreator&show_icons=true&theme=dark)
 📫 Como me encontrar
 <p align="left"> <a href="https://www.linkedin.com/in/luiz-felipe-anjos-193435213/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> </a> <a href="mailto:luizfelipeanjos23@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a>
